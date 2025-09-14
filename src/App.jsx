@@ -15,7 +15,7 @@ import CounterWithPrevious from "./components/CounterWithPrevious";
 import HoverCard from "./components/HoverCard";
 import HoverBox from "./components/HoverBox";
 import PageTitle from "./components/PageTitle";
-import DynamicTitle from "./components/Dynamictitle";
+import DynamicTitle from "./components/DynamicTitle";
 import MessageTimeout from "./components/MessageTimeout";
 import AlertTimeout from "./components/AlertTimeOut";
 import CopyText from "./components/CopyText";
