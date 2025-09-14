@@ -17,7 +17,7 @@ import HoverBox from "./components/HoverBox";
 import PageTitle from "./components/PageTitle";
 import DynamicTitle from "./components/DynamicTitle";
 import MessageTimeout from "./components/MessageTimeout";
-import AlertTimeout from "./components/AlertTimeOut";
+import AlertTimeout from "./components/AlertTimeout";
 import CopyText from "./components/CopyText";
 import CopyInput from "./components/CopyInput";
 import ScreenSize from "./components/ScreenSize";
